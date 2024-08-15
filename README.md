@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Dinuja, and I am an BCIT trained computer scientist interested in everything UI/UX and Data Communications!
+My name is Dinuja, and I am an BCIT trained computer scientist interested in everything UI/UX!
 
 <!--
 **dinujagunawardana/DinujaGunawardana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
